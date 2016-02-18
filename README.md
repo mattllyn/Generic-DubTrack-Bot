@@ -18,16 +18,7 @@ Generic-DubTrack-Bot runs on node and requires [DubAPI]: https://github.com/anja
 5. Issue the command ```node bot.js``` to run the bot<br>
 6. Profit
 
-## Settings
-| Setting       | Description           | Options  |
-| ------------- |:-------------:| -----:|
-| login*      | login information for the bot's account | strings |
-|   |    |
-|   |    |
-|   |    |
-|   |    ||   |    |
 
-*Required
 
 
 
