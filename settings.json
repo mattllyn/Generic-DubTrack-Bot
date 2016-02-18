@@ -1,0 +1,24 @@
+{
+	"login": {
+		"username": "USERNAME", 
+		"password": "PASSWORD" 
+	},
+	"roomID": "ROOM_ID",
+	"linkFilter": true,
+	"eta": true,
+	"lastPlay": true,
+	"link": true,
+	"skip": true,
+	"remove": true,
+	"customCommands":{
+		
+		"github": "https://github.com/knifftech",
+		
+		"joke": [
+			"Our wedding was so beautiful, even the cake was in tiers.",
+			"Did you hear about the new restaurant on the moon? The food is great, but there's just no atmosphere.",
+			"I went to a book store and asked the saleswoman where the Self Help section was, she said if she told me it would defeat the purpose.",
+			"What did the mountain climber name his son? Cliff."
+		]
+	}
+}
